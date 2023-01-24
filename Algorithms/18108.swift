@@ -6,3 +6,6 @@
 //
 
 import Foundation
+
+var value = Int(readLine()!)!
+print(value - 543)
